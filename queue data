@@ -14,3 +14,12 @@ print(queue.pop(0))
 print(queue)
 #Isempty
 print(len(queue)<=0)
+
+
+output:
+[1, 2, 5, 10]
+2
+2
+5
+[10]
+False
